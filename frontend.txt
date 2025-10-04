@@ -5,3 +5,4 @@
 + news page
 + faQ
 + auth
++ usermod
