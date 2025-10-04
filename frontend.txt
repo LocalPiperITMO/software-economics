@@ -3,4 +3,4 @@
 + start page
 + template page
 + news page
-+ faq
++ faQ
