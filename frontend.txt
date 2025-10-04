@@ -3,3 +3,5 @@
 + start page
 + template page
 + news page
++ faQ
++ auth
