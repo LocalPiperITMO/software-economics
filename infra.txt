@@ -1,2 +1,3 @@
 + bought new server
 + chosen env
++ ssl
