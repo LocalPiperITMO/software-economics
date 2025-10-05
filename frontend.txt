@@ -13,3 +13,4 @@
 + trash
 + board
 + ZE HORROR
++ hints
