@@ -12,3 +12,6 @@
 + proj
 + trash
 + board
++ ZE HORROR
++ hints
++ popup
