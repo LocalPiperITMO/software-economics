@@ -1,2 +1,6 @@
 + will also be using JavaScript
 + design db
++ auth
++ shdu
++ bp
++ vcs
