@@ -10,3 +10,4 @@
 + allb
 + myb
 + proj
++ trash
