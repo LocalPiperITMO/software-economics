@@ -5,3 +5,9 @@
 + news page
 + faQ
 + auth
++ usermod
++ recent
++ allb
++ myb
++ proj
++ trash
